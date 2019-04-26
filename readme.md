@@ -10,14 +10,16 @@ Desktop application for entering reoccurring personal expenses.
 
 WIP
 
-### Installing
-
-Download complied package and install.
-
 ### Build Commands
 
-* Run Build & Test Server: 
-* Export Compiled App: 
+[Electron](https://electronjs) [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+
+* Development server: `ng serve`
+* Code scaffolding: `ng generate component component-name` You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Build: `ng build` (`--prod`)
+* Unit tests: `ng test`
+* end-to-end tests: `ng e2e`
+* Help: `ng help`
 
 ## Running the tests
 

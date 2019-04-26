@@ -1,6 +1,7 @@
 [![Inline docs](http://inch-ci.org/github/texturedpixel/perpetual.svg?branch=master)](http://inch-ci.org/github/tgrux/perpetual) [![Conventional Changelog](https://img.shields.io/badge/changelog-conventional-brightgreen.svg)](http://conventional-changelog.github.io) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-[![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}) [![Dependencies](https://david-dm.org/tgrux/perpetual.svg)](https://david-dm.org/tgrux/perpetual) [![codecov](https://codecov.io/gh/tgrux/perpetual/branch/master/graph/badge.svg?token=6A7k61isU7)](https://codecov.io/gh/tgrux/perpetual) 
+[![Dependencies](https://david-dm.org/tgrux/perpetual/status.svg)](https://david-dm.org/tgrux/perpetual) [![Dependencies](https://david-dm.org/tgrux/perpetual/dev-status.svg)](https://david-dm.org/tgrux/perpetual?type=dev) [![codecov](https://codecov.io/gh/tgrux/perpetual/branch/master/graph/badge.svg?token=6A7k61isU7)](https://codecov.io/gh/tgrux/perpetual) 
+
 
 # Perpetual
 
